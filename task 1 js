@@ -1,0 +1,24 @@
+java script enginee//
+var name ="mohamed badway"
+هو برنماج  يفوم بقراءة برمجه مكتوبه js
+parser
+function jsengine(code){
+return code.split(/\s+/);
+
+
+}
+console.log(jsengine('var x='));
+
+
+dom
+document object model
+what  is dom/ programming interface for html ,xhl 
+var myp =document.createelement('p') ,
+mytext = document,createtextnode(' this paragraph  created w ';
+myp.appendchild('myp');
+document.body,appendchild(myP);
+  
+bom=browser object  model
+alert(message)=need no response only ok availbale
+confirm(message) need response and return a boolean
+prompt(message,default message) collect data
